@@ -1,0 +1,23 @@
+{
+  "name": "api_clima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valizi/Api_Clima.git"
+  },
+  "author": "EduardoValizi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Valizi/Api_Clima/issues"
+  },
+  "homepage": "https://github.com/Valizi/Api_Clima#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.3"
+  }
+}
